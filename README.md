@@ -1,3 +1,20 @@
+# Covid Tracker App
+
+This project is built using React taking real time API data.
+This also has Live Cases, Recovered and Deaths tabs that are clickable which are viewable based on World wide or Country bases. Live cases by country displays live cases thats been sorted.
+Line Graph shows fluctations over days, hovering will give exact values
+Maps on click will give stats of cases, recovered as well as deaths.
+
+## Screenshots
+
+[!Opening Screenshot, for world wide cases]()
+[!USA - Live Cases]()
+[!USA - Recovered Cases]()
+[!USA - Death Cases]()
+[!Map]()
+[!Graph]()
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
