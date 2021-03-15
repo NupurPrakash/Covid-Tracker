@@ -7,12 +7,12 @@ Maps on click will give stats of cases, recovered as well as deaths.
 
 ## Screenshots
 
-[!Opening Screenshot, for world wide cases](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/1.Worldwide%20data.png?raw=true)
-[!USA - Live Cases](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/2.Cases.png?raw=true)
-[!USA - Recovered Cases](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/3.Recovered.png?raw=true)
-[!USA - Death Cases](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/4.Deaths.png?raw=true)
-[!Map](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/5.Maps.png?raw=true)
-[!Graph](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/6.Linegraph.png?raw=true)
+!["Opening Screenshot, for world wide cases"](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/1.Worldwide%20data.png?raw=true)
+!["USA - Live Cases"](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/2.Cases.png?raw=true)
+!["USA - Recovered Cases"](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/3.Recovered.png?raw=true)
+!["USA - Death Cases"](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/4.Deaths.png?raw=true)
+!["Map"](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/5.Maps.png?raw=true)
+!["Graph"](https://github.com/NupurPrakash/Covid-Tracker/blob/master/docs/6.Linegraph.png?raw=true)
 
 
 # Getting Started with Create React App
